@@ -1,10 +1,7 @@
 # Zepto-sales-dashboard
 End-to-end Zepto-style delivery analytics project using Python, SQL, Excel, and Power BI. Includes data cleaning, EDA, SQL queries, and a multi-page dashboard with actionable insights.
 
-# 📊 Zepto Sales Dashboard  
-End-to-end data analytics project using Python, SQL, Excel, and Power BI.
-
----
+--
 
 ## 🚀 Overview
 This project analyzes sales, orders, delivery efficiency, and customer trends for a Zepto-style hyperlocal delivery system.  
