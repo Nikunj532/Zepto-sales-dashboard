@@ -43,32 +43,6 @@ KPIs · Sales Trend · Orders by City · Filters (Date, City, Status)
 ### 2️⃣ Delivery Performance
 Success Rate · Failed Deliveries · Rider Efficiency
 
-### 3️⃣ Customer & Location Insights
-High-Demand Areas · New vs Repeat Customers
-
-### 4️⃣ Items & Inventory
-Item Demand · Warehouse/Area Distribution
-
----
-
-## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
-## ▶️ How to Run
-### 1. Clone
-git clone https://github.com/your-username/zepto-sales-dashboard.git
-
-### 2. Install Dependencies
-pip install -r requirements.txt
-
-### 3. Open Notebook
-jupyter notebook notebooks/zepto_analysis.ipynb
-
-### 4. Open Power BI File
-Open: powerbi/zepto_dashboard.pbix
-
 ---
 
 ## 🔮 Future Improvements
@@ -78,7 +52,6 @@ Open: powerbi/zepto_dashboard.pbix
 
 ---
 
-## ✨ Author
 **Nikunj Agarwal**  
 Data Science Student | Python | SQL | Power BI  
 India
